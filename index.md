@@ -6,3 +6,9 @@ Adding Headers
 
 Adding Image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+Adding Codeblock
+
+``` javascript
+var myVar = "Hello, world!";
+```
